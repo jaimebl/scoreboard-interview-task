@@ -1,0 +1,3 @@
+spring.application.name: scoreboard-interview-task
+
+management.endpoints.web.exposure.include: info
